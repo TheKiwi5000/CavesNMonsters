@@ -1,4 +1,5 @@
 CavesNMonsters
 ==============
 
-My RPG game
+**My RPG game**
+This is medeval-fantasy themed game in Java.
